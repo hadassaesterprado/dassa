@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background-color: rgb(248, 252, 195);
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #ffe711;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: table;
+    font-size: 30px;
+}
+nav a:hover {
+    background-color: #b9ad06;
+}
+.um{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(248, 252, 195);
+    border-radius: 10px;
+    background-color: rgb(248, 252, 195);
+    text-align: center;
+}
+.dois{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(248, 252, 195);
+    border-radius: 10px;
+    background-color: rgb(248, 252, 195);
+    text-align: center;
+}
+.tres{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(248, 252, 195);
+    border-radius: 10px;
+    background-color: rgb(248, 252, 195);
+    text-align: center;
+}
+.test{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(248, 252, 195);
+    border-radius: 10px;
+    background-color: rgb(248, 252, 195);
+    text-align: center;
+    color: #1b4ab1;
+}
+p{
+    font-size: 50px;
+}
+footer{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    color: #ffffff;
+    background-color: #ffe711;
+}
+.lego{
+    background-color: white;
+    color: #ffffff;
+    padding: 0px;
+    text-align: center;
+}
+.hana{
+    display: grid;
+}
